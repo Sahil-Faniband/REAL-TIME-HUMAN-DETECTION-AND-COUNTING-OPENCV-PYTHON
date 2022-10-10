@@ -1,0 +1,6 @@
+pip install opencv-python 
+pip install imutils 
+pip install numpy
+opencv-python~=4.6.0.66
+imutils~=0.5.4
+numpy~=1.23.3
